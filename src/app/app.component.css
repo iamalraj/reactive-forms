@@ -1,0 +1,11 @@
+button {
+  margin-top: 5px;
+  margin-left: 2px;
+}
+h2 {
+  color: white;
+  background-color: cornflowerblue;
+  width: 100%;
+  padding: 10px;
+  border-bottom: 2px solid #ddd;
+}
